@@ -3,7 +3,7 @@
 Backtesting investment strategies on S&P 500 stocks using Markov Chain Monte Carlo (MCMC) simulations.
 It leverages stochastic processes to simulate and analyze probability distributions of stock returns, providing valuable insights for investment decisions.
 
-![Alt text](graph.png)
+![Alt text](images/graph.png)
 
 ## Key Features
 
@@ -21,7 +21,7 @@ Before running the project, ensure you have the necessary libraries installed. Y
 pip install panda lxml bs4 httpx backtesting yfinance pandas_ta scipy rich TA-Lib
 ```
 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 ### Usage
 
