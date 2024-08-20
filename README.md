@@ -4,6 +4,8 @@ Backtesting investment strategies on S&P 500 stocks using Markov Chain Monte Car
 It leverages stochastic processes to simulate and analyze probability distributions of stock returns, providing valuable insights for investment decisions.
 
 ![Alt text](images/graph.png)
+![image](https://github.com/user-attachments/assets/bfc8cfb7-d5ab-451f-a0d6-02b2b3dbd0db)
+
 
 ## Key Features
 
